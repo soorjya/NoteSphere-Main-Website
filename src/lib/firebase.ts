@@ -7,11 +7,11 @@ import { getDownloadURL, getStorage, ref, uploadBytes } from "firebase/storage";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
-  authDomain: "aideation-yt.firebaseapp.com",
-  projectId: "aideation-yt",
-  storageBucket: "aideation-yt.appspot.com",
-  messagingSenderId: "962348384448",
-  appId: "1:962348384448:web:e02758407aba3258d5ad25",
+  authDomain: "notesphere-f27e3.firebaseapp.com",
+  projectId: "notesphere-f27e3",
+  storageBucket: "notesphere-f27e3.appspot.com",
+  messagingSenderId: "520966805584",
+  appId: "1:520966805584:web:d93cb5439211496cdd9955"
 };
 
 // Initialize Firebase
